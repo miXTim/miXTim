@@ -15,7 +15,6 @@
 <a href="https://www.behance.net/juandemegiasroca" target="blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="juandemegiasroca" height="30" width="40" /></a>
 <a href="https://twitter.com/juande4u" target="blank" rel="noopener"><img align="center" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FmiXTim%2F" alt="juande4u" height="30" width="64" /></a>
 <a href="https://linkedin.com/in/juandemegiasroca" target="blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juandemegiasroca" height="30" width="40" /></a>
-<a href="https://fb.com/juande.4u" target="blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juande.4u" height="30" width="40" /></a>
 <a href="https://instagram.com/juande4u" target="blank" rel="noopener"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juande4u" height="30" width="40" /></a>
 </p>
 
